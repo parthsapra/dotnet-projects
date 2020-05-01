@@ -1,0 +1,7 @@
+C:\Users\Parth\source\repos\OrderProcessing\bin\Debug\netcoreapp3.1\OrderProcessing.deps.json
+C:\Users\Parth\source\repos\OrderProcessing\bin\Debug\netcoreapp3.1\OrderProcessing.dll
+C:\Users\Parth\source\repos\OrderProcessing\bin\Debug\netcoreapp3.1\OrderProcessing.pdb
+C:\Users\Parth\source\repos\OrderProcessing\obj\Debug\netcoreapp3.1\OrderProcessing.AssemblyInfoInputs.cache
+C:\Users\Parth\source\repos\OrderProcessing\obj\Debug\netcoreapp3.1\OrderProcessing.AssemblyInfo.cs
+C:\Users\Parth\source\repos\OrderProcessing\obj\Debug\netcoreapp3.1\OrderProcessing.dll
+C:\Users\Parth\source\repos\OrderProcessing\obj\Debug\netcoreapp3.1\OrderProcessing.pdb

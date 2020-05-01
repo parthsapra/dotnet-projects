@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29503.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountsPayable", "AccountsPayable.csproj", "{9626E1B3-D23A-4775-A6FE-EBAC849D070D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9626E1B3-D23A-4775-A6FE-EBAC849D070D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9626E1B3-D23A-4775-A6FE-EBAC849D070D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9626E1B3-D23A-4775-A6FE-EBAC849D070D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9626E1B3-D23A-4775-A6FE-EBAC849D070D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD60698D-7F80-4B65-B13F-15D79D80D072}
+	EndGlobalSection
+EndGlobal

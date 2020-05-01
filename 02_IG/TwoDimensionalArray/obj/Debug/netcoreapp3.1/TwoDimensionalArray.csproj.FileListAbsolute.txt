@@ -1,0 +1,11 @@
+C:\Users\Parth\source\repos\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.exe
+C:\Users\Parth\source\repos\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.deps.json
+C:\Users\Parth\source\repos\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.runtimeconfig.json
+C:\Users\Parth\source\repos\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.runtimeconfig.dev.json
+C:\Users\Parth\source\repos\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.dll
+C:\Users\Parth\source\repos\TwoDimensionalArray\bin\Debug\netcoreapp3.1\TwoDimensionalArray.pdb
+C:\Users\Parth\source\repos\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.csprojAssemblyReference.cache
+C:\Users\Parth\source\repos\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\Parth\source\repos\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.AssemblyInfo.cs
+C:\Users\Parth\source\repos\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.dll
+C:\Users\Parth\source\repos\TwoDimensionalArray\obj\Debug\netcoreapp3.1\TwoDimensionalArray.pdb

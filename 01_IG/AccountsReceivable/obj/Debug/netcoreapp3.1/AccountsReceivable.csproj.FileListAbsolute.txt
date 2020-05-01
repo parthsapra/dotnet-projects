@@ -1,0 +1,7 @@
+C:\Users\Parth\source\repos\AccountsReceivable\bin\Debug\netcoreapp3.1\AccountsReceivable.deps.json
+C:\Users\Parth\source\repos\AccountsReceivable\bin\Debug\netcoreapp3.1\AccountsReceivable.dll
+C:\Users\Parth\source\repos\AccountsReceivable\bin\Debug\netcoreapp3.1\AccountsReceivable.pdb
+C:\Users\Parth\source\repos\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.AssemblyInfoInputs.cache
+C:\Users\Parth\source\repos\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.AssemblyInfo.cs
+C:\Users\Parth\source\repos\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.dll
+C:\Users\Parth\source\repos\AccountsReceivable\obj\Debug\netcoreapp3.1\AccountsReceivable.pdb

@@ -1,0 +1,10 @@
+C:\Users\Parth\source\repos\GenericQueue\bin\Debug\netcoreapp3.1\GenericQueue.exe
+C:\Users\Parth\source\repos\GenericQueue\bin\Debug\netcoreapp3.1\GenericQueue.deps.json
+C:\Users\Parth\source\repos\GenericQueue\bin\Debug\netcoreapp3.1\GenericQueue.runtimeconfig.json
+C:\Users\Parth\source\repos\GenericQueue\bin\Debug\netcoreapp3.1\GenericQueue.runtimeconfig.dev.json
+C:\Users\Parth\source\repos\GenericQueue\bin\Debug\netcoreapp3.1\GenericQueue.dll
+C:\Users\Parth\source\repos\GenericQueue\bin\Debug\netcoreapp3.1\GenericQueue.pdb
+C:\Users\Parth\source\repos\GenericQueue\obj\Debug\netcoreapp3.1\GenericQueue.AssemblyInfoInputs.cache
+C:\Users\Parth\source\repos\GenericQueue\obj\Debug\netcoreapp3.1\GenericQueue.AssemblyInfo.cs
+C:\Users\Parth\source\repos\GenericQueue\obj\Debug\netcoreapp3.1\GenericQueue.dll
+C:\Users\Parth\source\repos\GenericQueue\obj\Debug\netcoreapp3.1\GenericQueue.pdb

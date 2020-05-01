@@ -1,0 +1,8 @@
+C:\Users\Parth\source\repos\ProductLibrary\bin\Debug\netcoreapp3.1\ProductLibrary.deps.json
+C:\Users\Parth\source\repos\ProductLibrary\bin\Debug\netcoreapp3.1\ProductLibrary.dll
+C:\Users\Parth\source\repos\ProductLibrary\bin\Debug\netcoreapp3.1\ProductLibrary.pdb
+C:\Users\Parth\source\repos\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.csprojAssemblyReference.cache
+C:\Users\Parth\source\repos\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.AssemblyInfoInputs.cache
+C:\Users\Parth\source\repos\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.AssemblyInfo.cs
+C:\Users\Parth\source\repos\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.dll
+C:\Users\Parth\source\repos\ProductLibrary\obj\Debug\netcoreapp3.1\ProductLibrary.pdb
